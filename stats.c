@@ -107,7 +107,7 @@ float find_median(unsigned char * data, unsigned int size)
 
 }
 /*************************************************************/
-float find_mean(char * data, unsigned int size)
+float find_mean(unsigned char * data, unsigned int size)
 {
 
 	float mean;
